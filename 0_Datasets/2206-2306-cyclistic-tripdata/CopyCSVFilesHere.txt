@@ -1,0 +1,3 @@
+Download and extract CSVs into this folder. Keep the same directory structure to re-run code.
+
+https://www.kaggle.com/datasets/diegosnbr/2206-2306-cyclistic-tripdata
